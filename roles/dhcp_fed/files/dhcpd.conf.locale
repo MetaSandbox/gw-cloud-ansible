@@ -1,0 +1,507 @@
+host cloud-10.4.1.2 { hardware ethernet 02:00:0A:04:01:02;fixed-address 10.4.1.2;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.3 { hardware ethernet 02:00:0A:04:01:03;fixed-address 10.4.1.3;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.4 { hardware ethernet 02:00:0A:04:01:04;fixed-address 10.4.1.4;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.5 { hardware ethernet 02:00:0A:04:01:05;fixed-address 10.4.1.5;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.6 { hardware ethernet 02:00:0A:04:01:06;fixed-address 10.4.1.6;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.7 { hardware ethernet 02:00:0A:04:01:07;fixed-address 10.4.1.7;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.8 { hardware ethernet 02:00:0A:04:01:08;fixed-address 10.4.1.8;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.9 { hardware ethernet 02:00:0A:04:01:09;fixed-address 10.4.1.9;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.10 { hardware ethernet 02:00:0A:04:01:0A;fixed-address 10.4.1.10;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.11 { hardware ethernet 02:00:0A:04:01:0B;fixed-address 10.4.1.11;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.12 { hardware ethernet 02:00:0A:04:01:0C;fixed-address 10.4.1.12;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.13 { hardware ethernet 02:00:0A:04:01:0D;fixed-address 10.4.1.13;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.14 { hardware ethernet 02:00:0A:04:01:0E;fixed-address 10.4.1.14;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.15 { hardware ethernet 02:00:0A:04:01:0F;fixed-address 10.4.1.15;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.16 { hardware ethernet 02:00:0A:04:01:10;fixed-address 10.4.1.16;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.17 { hardware ethernet 02:00:0A:04:01:11;fixed-address 10.4.1.17;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.18 { hardware ethernet 02:00:0A:04:01:12;fixed-address 10.4.1.18;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.19 { hardware ethernet 02:00:0A:04:01:13;fixed-address 10.4.1.19;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.20 { hardware ethernet 02:00:0A:04:01:14;fixed-address 10.4.1.20;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.21 { hardware ethernet 02:00:0A:04:01:15;fixed-address 10.4.1.21;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.22 { hardware ethernet 02:00:0A:04:01:16;fixed-address 10.4.1.22;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.23 { hardware ethernet 02:00:0A:04:01:17;fixed-address 10.4.1.23;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.24 { hardware ethernet 02:00:0A:04:01:18;fixed-address 10.4.1.24;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.25 { hardware ethernet 02:00:0A:04:01:19;fixed-address 10.4.1.25;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.26 { hardware ethernet 02:00:0A:04:01:1A;fixed-address 10.4.1.26;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.27 { hardware ethernet 02:00:0A:04:01:1B;fixed-address 10.4.1.27;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.28 { hardware ethernet 02:00:0A:04:01:1C;fixed-address 10.4.1.28;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.29 { hardware ethernet 02:00:0A:04:01:1D;fixed-address 10.4.1.29;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.30 { hardware ethernet 02:00:0A:04:01:1E;fixed-address 10.4.1.30;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.31 { hardware ethernet 02:00:0A:04:01:1F;fixed-address 10.4.1.31;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.32 { hardware ethernet 02:00:0A:04:01:20;fixed-address 10.4.1.32;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.33 { hardware ethernet 02:00:0A:04:01:21;fixed-address 10.4.1.33;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.34 { hardware ethernet 02:00:0A:04:01:22;fixed-address 10.4.1.34;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.35 { hardware ethernet 02:00:0A:04:01:23;fixed-address 10.4.1.35;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.36 { hardware ethernet 02:00:0A:04:01:24;fixed-address 10.4.1.36;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.37 { hardware ethernet 02:00:0A:04:01:25;fixed-address 10.4.1.37;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.38 { hardware ethernet 02:00:0A:04:01:26;fixed-address 10.4.1.38;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.39 { hardware ethernet 02:00:0A:04:01:27;fixed-address 10.4.1.39;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.40 { hardware ethernet 02:00:0A:04:01:28;fixed-address 10.4.1.40;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.41 { hardware ethernet 02:00:0A:04:01:29;fixed-address 10.4.1.41;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.42 { hardware ethernet 02:00:0A:04:01:2A;fixed-address 10.4.1.42;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.43 { hardware ethernet 02:00:0A:04:01:2B;fixed-address 10.4.1.43;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.44 { hardware ethernet 02:00:0A:04:01:2C;fixed-address 10.4.1.44;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.45 { hardware ethernet 02:00:0A:04:01:2D;fixed-address 10.4.1.45;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.46 { hardware ethernet 02:00:0A:04:01:2E;fixed-address 10.4.1.46;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.47 { hardware ethernet 02:00:0A:04:01:2F;fixed-address 10.4.1.47;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.48 { hardware ethernet 02:00:0A:04:01:30;fixed-address 10.4.1.48;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.49 { hardware ethernet 02:00:0A:04:01:31;fixed-address 10.4.1.49;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.50 { hardware ethernet 02:00:0A:04:01:32;fixed-address 10.4.1.50;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.51 { hardware ethernet 02:00:0A:04:01:33;fixed-address 10.4.1.51;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.52 { hardware ethernet 02:00:0A:04:01:34;fixed-address 10.4.1.52;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.53 { hardware ethernet 02:00:0A:04:01:35;fixed-address 10.4.1.53;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.54 { hardware ethernet 02:00:0A:04:01:36;fixed-address 10.4.1.54;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.55 { hardware ethernet 02:00:0A:04:01:37;fixed-address 10.4.1.55;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.56 { hardware ethernet 02:00:0A:04:01:38;fixed-address 10.4.1.56;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.57 { hardware ethernet 02:00:0A:04:01:39;fixed-address 10.4.1.57;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.58 { hardware ethernet 02:00:0A:04:01:3A;fixed-address 10.4.1.58;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.59 { hardware ethernet 02:00:0A:04:01:3B;fixed-address 10.4.1.59;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.60 { hardware ethernet 02:00:0A:04:01:3C;fixed-address 10.4.1.60;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.61 { hardware ethernet 02:00:0A:04:01:3D;fixed-address 10.4.1.61;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.62 { hardware ethernet 02:00:0A:04:01:3E;fixed-address 10.4.1.62;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.63 { hardware ethernet 02:00:0A:04:01:3F;fixed-address 10.4.1.63;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.64 { hardware ethernet 02:00:0A:04:01:40;fixed-address 10.4.1.64;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.65 { hardware ethernet 02:00:0A:04:01:41;fixed-address 10.4.1.65;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.66 { hardware ethernet 02:00:0A:04:01:42;fixed-address 10.4.1.66;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.67 { hardware ethernet 02:00:0A:04:01:43;fixed-address 10.4.1.67;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.68 { hardware ethernet 02:00:0A:04:01:44;fixed-address 10.4.1.68;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.69 { hardware ethernet 02:00:0A:04:01:45;fixed-address 10.4.1.69;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.70 { hardware ethernet 02:00:0A:04:01:46;fixed-address 10.4.1.70;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.71 { hardware ethernet 02:00:0A:04:01:47;fixed-address 10.4.1.71;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.72 { hardware ethernet 02:00:0A:04:01:48;fixed-address 10.4.1.72;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.73 { hardware ethernet 02:00:0A:04:01:49;fixed-address 10.4.1.73;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.74 { hardware ethernet 02:00:0A:04:01:4A;fixed-address 10.4.1.74;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.75 { hardware ethernet 02:00:0A:04:01:4B;fixed-address 10.4.1.75;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.76 { hardware ethernet 02:00:0A:04:01:4C;fixed-address 10.4.1.76;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.77 { hardware ethernet 02:00:0A:04:01:4D;fixed-address 10.4.1.77;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.78 { hardware ethernet 02:00:0A:04:01:4E;fixed-address 10.4.1.78;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.79 { hardware ethernet 02:00:0A:04:01:4F;fixed-address 10.4.1.79;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.80 { hardware ethernet 02:00:0A:04:01:50;fixed-address 10.4.1.80;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.81 { hardware ethernet 02:00:0A:04:01:51;fixed-address 10.4.1.81;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.82 { hardware ethernet 02:00:0A:04:01:52;fixed-address 10.4.1.82;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.83 { hardware ethernet 02:00:0A:04:01:53;fixed-address 10.4.1.83;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.84 { hardware ethernet 02:00:0A:04:01:54;fixed-address 10.4.1.84;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.85 { hardware ethernet 02:00:0A:04:01:55;fixed-address 10.4.1.85;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.86 { hardware ethernet 02:00:0A:04:01:56;fixed-address 10.4.1.86;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.87 { hardware ethernet 02:00:0A:04:01:57;fixed-address 10.4.1.87;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.88 { hardware ethernet 02:00:0A:04:01:58;fixed-address 10.4.1.88;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.89 { hardware ethernet 02:00:0A:04:01:59;fixed-address 10.4.1.89;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.90 { hardware ethernet 02:00:0A:04:01:5A;fixed-address 10.4.1.90;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.91 { hardware ethernet 02:00:0A:04:01:5B;fixed-address 10.4.1.91;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.92 { hardware ethernet 02:00:0A:04:01:5C;fixed-address 10.4.1.92;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.93 { hardware ethernet 02:00:0A:04:01:5D;fixed-address 10.4.1.93;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.94 { hardware ethernet 02:00:0A:04:01:5E;fixed-address 10.4.1.94;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.95 { hardware ethernet 02:00:0A:04:01:5F;fixed-address 10.4.1.95;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.96 { hardware ethernet 02:00:0A:04:01:60;fixed-address 10.4.1.96;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.97 { hardware ethernet 02:00:0A:04:01:61;fixed-address 10.4.1.97;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.98 { hardware ethernet 02:00:0A:04:01:62;fixed-address 10.4.1.98;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.99 { hardware ethernet 02:00:0A:04:01:63;fixed-address 10.4.1.99;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.100 { hardware ethernet 02:00:0A:04:01:64;fixed-address 10.4.1.100;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.101 { hardware ethernet 02:00:0A:04:01:65;fixed-address 10.4.1.101;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.102 { hardware ethernet 02:00:0A:04:01:66;fixed-address 10.4.1.102;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.103 { hardware ethernet 02:00:0A:04:01:67;fixed-address 10.4.1.103;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.104 { hardware ethernet 02:00:0A:04:01:68;fixed-address 10.4.1.104;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.105 { hardware ethernet 02:00:0A:04:01:69;fixed-address 10.4.1.105;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.106 { hardware ethernet 02:00:0A:04:01:6A;fixed-address 10.4.1.106;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.107 { hardware ethernet 02:00:0A:04:01:6B;fixed-address 10.4.1.107;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.108 { hardware ethernet 02:00:0A:04:01:6C;fixed-address 10.4.1.108;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.109 { hardware ethernet 02:00:0A:04:01:6D;fixed-address 10.4.1.109;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.110 { hardware ethernet 02:00:0A:04:01:6E;fixed-address 10.4.1.110;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.111 { hardware ethernet 02:00:0A:04:01:6F;fixed-address 10.4.1.111;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.112 { hardware ethernet 02:00:0A:04:01:70;fixed-address 10.4.1.112;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.113 { hardware ethernet 02:00:0A:04:01:71;fixed-address 10.4.1.113;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.114 { hardware ethernet 02:00:0A:04:01:72;fixed-address 10.4.1.114;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.115 { hardware ethernet 02:00:0A:04:01:73;fixed-address 10.4.1.115;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.116 { hardware ethernet 02:00:0A:04:01:74;fixed-address 10.4.1.116;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.117 { hardware ethernet 02:00:0A:04:01:75;fixed-address 10.4.1.117;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.118 { hardware ethernet 02:00:0A:04:01:76;fixed-address 10.4.1.118;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.119 { hardware ethernet 02:00:0A:04:01:77;fixed-address 10.4.1.119;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.120 { hardware ethernet 02:00:0A:04:01:78;fixed-address 10.4.1.120;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.121 { hardware ethernet 02:00:0A:04:01:79;fixed-address 10.4.1.121;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.122 { hardware ethernet 02:00:0A:04:01:7A;fixed-address 10.4.1.122;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.123 { hardware ethernet 02:00:0A:04:01:7B;fixed-address 10.4.1.123;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.124 { hardware ethernet 02:00:0A:04:01:7C;fixed-address 10.4.1.124;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.125 { hardware ethernet 02:00:0A:04:01:7D;fixed-address 10.4.1.125;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.126 { hardware ethernet 02:00:0A:04:01:7E;fixed-address 10.4.1.126;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.127 { hardware ethernet 02:00:0A:04:01:7F;fixed-address 10.4.1.127;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.128 { hardware ethernet 02:00:0A:04:01:80;fixed-address 10.4.1.128;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.129 { hardware ethernet 02:00:0A:04:01:81;fixed-address 10.4.1.129;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.130 { hardware ethernet 02:00:0A:04:01:82;fixed-address 10.4.1.130;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.131 { hardware ethernet 02:00:0A:04:01:83;fixed-address 10.4.1.131;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.132 { hardware ethernet 02:00:0A:04:01:84;fixed-address 10.4.1.132;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.133 { hardware ethernet 02:00:0A:04:01:85;fixed-address 10.4.1.133;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.134 { hardware ethernet 02:00:0A:04:01:86;fixed-address 10.4.1.134;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.135 { hardware ethernet 02:00:0A:04:01:87;fixed-address 10.4.1.135;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.136 { hardware ethernet 02:00:0A:04:01:88;fixed-address 10.4.1.136;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.137 { hardware ethernet 02:00:0A:04:01:89;fixed-address 10.4.1.137;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.138 { hardware ethernet 02:00:0A:04:01:8A;fixed-address 10.4.1.138;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.139 { hardware ethernet 02:00:0A:04:01:8B;fixed-address 10.4.1.139;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.140 { hardware ethernet 02:00:0A:04:01:8C;fixed-address 10.4.1.140;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.141 { hardware ethernet 02:00:0A:04:01:8D;fixed-address 10.4.1.141;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.142 { hardware ethernet 02:00:0A:04:01:8E;fixed-address 10.4.1.142;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.143 { hardware ethernet 02:00:0A:04:01:8F;fixed-address 10.4.1.143;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.144 { hardware ethernet 02:00:0A:04:01:90;fixed-address 10.4.1.144;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.145 { hardware ethernet 02:00:0A:04:01:91;fixed-address 10.4.1.145;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.146 { hardware ethernet 02:00:0A:04:01:92;fixed-address 10.4.1.146;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.147 { hardware ethernet 02:00:0A:04:01:93;fixed-address 10.4.1.147;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.148 { hardware ethernet 02:00:0A:04:01:94;fixed-address 10.4.1.148;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.149 { hardware ethernet 02:00:0A:04:01:95;fixed-address 10.4.1.149;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.150 { hardware ethernet 02:00:0A:04:01:96;fixed-address 10.4.1.150;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.151 { hardware ethernet 02:00:0A:04:01:97;fixed-address 10.4.1.151;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.152 { hardware ethernet 02:00:0A:04:01:98;fixed-address 10.4.1.152;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.153 { hardware ethernet 02:00:0A:04:01:99;fixed-address 10.4.1.153;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.154 { hardware ethernet 02:00:0A:04:01:9A;fixed-address 10.4.1.154;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.155 { hardware ethernet 02:00:0A:04:01:9B;fixed-address 10.4.1.155;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.156 { hardware ethernet 02:00:0A:04:01:9C;fixed-address 10.4.1.156;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.157 { hardware ethernet 02:00:0A:04:01:9D;fixed-address 10.4.1.157;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.158 { hardware ethernet 02:00:0A:04:01:9E;fixed-address 10.4.1.158;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.159 { hardware ethernet 02:00:0A:04:01:9F;fixed-address 10.4.1.159;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.160 { hardware ethernet 02:00:0A:04:01:A0;fixed-address 10.4.1.160;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.161 { hardware ethernet 02:00:0A:04:01:A1;fixed-address 10.4.1.161;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.162 { hardware ethernet 02:00:0A:04:01:A2;fixed-address 10.4.1.162;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.163 { hardware ethernet 02:00:0A:04:01:A3;fixed-address 10.4.1.163;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.164 { hardware ethernet 02:00:0A:04:01:A4;fixed-address 10.4.1.164;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.165 { hardware ethernet 02:00:0A:04:01:A5;fixed-address 10.4.1.165;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.166 { hardware ethernet 02:00:0A:04:01:A6;fixed-address 10.4.1.166;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.167 { hardware ethernet 02:00:0A:04:01:A7;fixed-address 10.4.1.167;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.168 { hardware ethernet 02:00:0A:04:01:A8;fixed-address 10.4.1.168;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.169 { hardware ethernet 02:00:0A:04:01:A9;fixed-address 10.4.1.169;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.170 { hardware ethernet 02:00:0A:04:01:AA;fixed-address 10.4.1.170;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.171 { hardware ethernet 02:00:0A:04:01:AB;fixed-address 10.4.1.171;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.172 { hardware ethernet 02:00:0A:04:01:AC;fixed-address 10.4.1.172;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.173 { hardware ethernet 02:00:0A:04:01:AD;fixed-address 10.4.1.173;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.174 { hardware ethernet 02:00:0A:04:01:AE;fixed-address 10.4.1.174;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.175 { hardware ethernet 02:00:0A:04:01:AF;fixed-address 10.4.1.175;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.176 { hardware ethernet 02:00:0A:04:01:B0;fixed-address 10.4.1.176;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.177 { hardware ethernet 02:00:0A:04:01:B1;fixed-address 10.4.1.177;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.178 { hardware ethernet 02:00:0A:04:01:B2;fixed-address 10.4.1.178;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.179 { hardware ethernet 02:00:0A:04:01:B3;fixed-address 10.4.1.179;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.180 { hardware ethernet 02:00:0A:04:01:B4;fixed-address 10.4.1.180;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.181 { hardware ethernet 02:00:0A:04:01:B5;fixed-address 10.4.1.181;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.182 { hardware ethernet 02:00:0A:04:01:B6;fixed-address 10.4.1.182;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.183 { hardware ethernet 02:00:0A:04:01:B7;fixed-address 10.4.1.183;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.184 { hardware ethernet 02:00:0A:04:01:B8;fixed-address 10.4.1.184;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.185 { hardware ethernet 02:00:0A:04:01:B9;fixed-address 10.4.1.185;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.186 { hardware ethernet 02:00:0A:04:01:BA;fixed-address 10.4.1.186;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.187 { hardware ethernet 02:00:0A:04:01:BB;fixed-address 10.4.1.187;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.188 { hardware ethernet 02:00:0A:04:01:BC;fixed-address 10.4.1.188;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.189 { hardware ethernet 02:00:0A:04:01:BD;fixed-address 10.4.1.189;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.190 { hardware ethernet 02:00:0A:04:01:BE;fixed-address 10.4.1.190;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.191 { hardware ethernet 02:00:0A:04:01:BF;fixed-address 10.4.1.191;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.192 { hardware ethernet 02:00:0A:04:01:C0;fixed-address 10.4.1.192;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.193 { hardware ethernet 02:00:0A:04:01:C1;fixed-address 10.4.1.193;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.194 { hardware ethernet 02:00:0A:04:01:C2;fixed-address 10.4.1.194;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.195 { hardware ethernet 02:00:0A:04:01:C3;fixed-address 10.4.1.195;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.196 { hardware ethernet 02:00:0A:04:01:C4;fixed-address 10.4.1.196;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.197 { hardware ethernet 02:00:0A:04:01:C5;fixed-address 10.4.1.197;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.198 { hardware ethernet 02:00:0A:04:01:C6;fixed-address 10.4.1.198;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.199 { hardware ethernet 02:00:0A:04:01:C7;fixed-address 10.4.1.199;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.200 { hardware ethernet 02:00:0A:04:01:C8;fixed-address 10.4.1.200;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.201 { hardware ethernet 02:00:0A:04:01:C9;fixed-address 10.4.1.201;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.202 { hardware ethernet 02:00:0A:04:01:CA;fixed-address 10.4.1.202;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.203 { hardware ethernet 02:00:0A:04:01:CB;fixed-address 10.4.1.203;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.204 { hardware ethernet 02:00:0A:04:01:CC;fixed-address 10.4.1.204;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.205 { hardware ethernet 02:00:0A:04:01:CD;fixed-address 10.4.1.205;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.206 { hardware ethernet 02:00:0A:04:01:CE;fixed-address 10.4.1.206;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.207 { hardware ethernet 02:00:0A:04:01:CF;fixed-address 10.4.1.207;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.208 { hardware ethernet 02:00:0A:04:01:D0;fixed-address 10.4.1.208;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.209 { hardware ethernet 02:00:0A:04:01:D1;fixed-address 10.4.1.209;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.210 { hardware ethernet 02:00:0A:04:01:D2;fixed-address 10.4.1.210;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.211 { hardware ethernet 02:00:0A:04:01:D3;fixed-address 10.4.1.211;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.212 { hardware ethernet 02:00:0A:04:01:D4;fixed-address 10.4.1.212;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.213 { hardware ethernet 02:00:0A:04:01:D5;fixed-address 10.4.1.213;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.214 { hardware ethernet 02:00:0A:04:01:D6;fixed-address 10.4.1.214;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.215 { hardware ethernet 02:00:0A:04:01:D7;fixed-address 10.4.1.215;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.216 { hardware ethernet 02:00:0A:04:01:D8;fixed-address 10.4.1.216;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.217 { hardware ethernet 02:00:0A:04:01:D9;fixed-address 10.4.1.217;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.218 { hardware ethernet 02:00:0A:04:01:DA;fixed-address 10.4.1.218;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.219 { hardware ethernet 02:00:0A:04:01:DB;fixed-address 10.4.1.219;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.220 { hardware ethernet 02:00:0A:04:01:DC;fixed-address 10.4.1.220;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.221 { hardware ethernet 02:00:0A:04:01:DD;fixed-address 10.4.1.221;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.222 { hardware ethernet 02:00:0A:04:01:DE;fixed-address 10.4.1.222;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.223 { hardware ethernet 02:00:0A:04:01:DF;fixed-address 10.4.1.223;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.224 { hardware ethernet 02:00:0A:04:01:E0;fixed-address 10.4.1.224;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.225 { hardware ethernet 02:00:0A:04:01:E1;fixed-address 10.4.1.225;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.226 { hardware ethernet 02:00:0A:04:01:E2;fixed-address 10.4.1.226;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.227 { hardware ethernet 02:00:0A:04:01:E3;fixed-address 10.4.1.227;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.228 { hardware ethernet 02:00:0A:04:01:E4;fixed-address 10.4.1.228;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.229 { hardware ethernet 02:00:0A:04:01:E5;fixed-address 10.4.1.229;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.230 { hardware ethernet 02:00:0A:04:01:E6;fixed-address 10.4.1.230;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.231 { hardware ethernet 02:00:0A:04:01:E7;fixed-address 10.4.1.231;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.232 { hardware ethernet 02:00:0A:04:01:E8;fixed-address 10.4.1.232;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.233 { hardware ethernet 02:00:0A:04:01:E9;fixed-address 10.4.1.233;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.234 { hardware ethernet 02:00:0A:04:01:EA;fixed-address 10.4.1.234;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.235 { hardware ethernet 02:00:0A:04:01:EB;fixed-address 10.4.1.235;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.236 { hardware ethernet 02:00:0A:04:01:EC;fixed-address 10.4.1.236;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.237 { hardware ethernet 02:00:0A:04:01:ED;fixed-address 10.4.1.237;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.238 { hardware ethernet 02:00:0A:04:01:EE;fixed-address 10.4.1.238;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.239 { hardware ethernet 02:00:0A:04:01:EF;fixed-address 10.4.1.239;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.240 { hardware ethernet 02:00:0A:04:01:F0;fixed-address 10.4.1.240;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.241 { hardware ethernet 02:00:0A:04:01:F1;fixed-address 10.4.1.241;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.242 { hardware ethernet 02:00:0A:04:01:F2;fixed-address 10.4.1.242;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.243 { hardware ethernet 02:00:0A:04:01:F3;fixed-address 10.4.1.243;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.244 { hardware ethernet 02:00:0A:04:01:F4;fixed-address 10.4.1.244;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.245 { hardware ethernet 02:00:0A:04:01:F5;fixed-address 10.4.1.245;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.246 { hardware ethernet 02:00:0A:04:01:F6;fixed-address 10.4.1.246;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.247 { hardware ethernet 02:00:0A:04:01:F7;fixed-address 10.4.1.247;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.248 { hardware ethernet 02:00:0A:04:01:F8;fixed-address 10.4.1.248;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.249 { hardware ethernet 02:00:0A:04:01:F9;fixed-address 10.4.1.249;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.250 { hardware ethernet 02:00:0A:04:01:FA;fixed-address 10.4.1.250;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.251 { hardware ethernet 02:00:0A:04:01:FB;fixed-address 10.4.1.251;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.252 { hardware ethernet 02:00:0A:04:01:FC;fixed-address 10.4.1.252;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.253 { hardware ethernet 02:00:0A:04:01:FD;fixed-address 10.4.1.253;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+host cloud-10.4.1.254 { hardware ethernet 02:00:0A:04:01:FE;fixed-address 10.4.1.254;option routers 10.4.1.1;option domain-name-servers 147.228.3.3, 147.228.52.11; }
+########################################################
+host cloud-10.4.2.2 { hardware ethernet 02:00:0A:04:02:02;fixed-address 10.4.2.2; }
+host cloud-10.4.2.3 { hardware ethernet 02:00:0A:04:02:03;fixed-address 10.4.2.3; }
+host cloud-10.4.2.4 { hardware ethernet 02:00:0A:04:02:04;fixed-address 10.4.2.4; }
+host cloud-10.4.2.5 { hardware ethernet 02:00:0A:04:02:05;fixed-address 10.4.2.5; }
+host cloud-10.4.2.6 { hardware ethernet 02:00:0A:04:02:06;fixed-address 10.4.2.6; }
+host cloud-10.4.2.7 { hardware ethernet 02:00:0A:04:02:07;fixed-address 10.4.2.7; }
+host cloud-10.4.2.8 { hardware ethernet 02:00:0A:04:02:08;fixed-address 10.4.2.8; }
+host cloud-10.4.2.9 { hardware ethernet 02:00:0A:04:02:09;fixed-address 10.4.2.9; }
+host cloud-10.4.2.10 { hardware ethernet 02:00:0A:04:02:0A;fixed-address 10.4.2.10; }
+host cloud-10.4.2.11 { hardware ethernet 02:00:0A:04:02:0B;fixed-address 10.4.2.11; }
+host cloud-10.4.2.12 { hardware ethernet 02:00:0A:04:02:0C;fixed-address 10.4.2.12; }
+host cloud-10.4.2.13 { hardware ethernet 02:00:0A:04:02:0D;fixed-address 10.4.2.13; }
+host cloud-10.4.2.14 { hardware ethernet 02:00:0A:04:02:0E;fixed-address 10.4.2.14; }
+host cloud-10.4.2.15 { hardware ethernet 02:00:0A:04:02:0F;fixed-address 10.4.2.15; }
+host cloud-10.4.2.16 { hardware ethernet 02:00:0A:04:02:10;fixed-address 10.4.2.16; }
+host cloud-10.4.2.17 { hardware ethernet 02:00:0A:04:02:11;fixed-address 10.4.2.17; }
+host cloud-10.4.2.18 { hardware ethernet 02:00:0A:04:02:12;fixed-address 10.4.2.18; }
+host cloud-10.4.2.19 { hardware ethernet 02:00:0A:04:02:13;fixed-address 10.4.2.19; }
+host cloud-10.4.2.20 { hardware ethernet 02:00:0A:04:02:14;fixed-address 10.4.2.20; }
+host cloud-10.4.2.21 { hardware ethernet 02:00:0A:04:02:15;fixed-address 10.4.2.21; }
+host cloud-10.4.2.22 { hardware ethernet 02:00:0A:04:02:16;fixed-address 10.4.2.22; }
+host cloud-10.4.2.23 { hardware ethernet 02:00:0A:04:02:17;fixed-address 10.4.2.23; }
+host cloud-10.4.2.24 { hardware ethernet 02:00:0A:04:02:18;fixed-address 10.4.2.24; }
+host cloud-10.4.2.25 { hardware ethernet 02:00:0A:04:02:19;fixed-address 10.4.2.25; }
+host cloud-10.4.2.26 { hardware ethernet 02:00:0A:04:02:1A;fixed-address 10.4.2.26; }
+host cloud-10.4.2.27 { hardware ethernet 02:00:0A:04:02:1B;fixed-address 10.4.2.27; }
+host cloud-10.4.2.28 { hardware ethernet 02:00:0A:04:02:1C;fixed-address 10.4.2.28; }
+host cloud-10.4.2.29 { hardware ethernet 02:00:0A:04:02:1D;fixed-address 10.4.2.29; }
+host cloud-10.4.2.30 { hardware ethernet 02:00:0A:04:02:1E;fixed-address 10.4.2.30; }
+host cloud-10.4.2.31 { hardware ethernet 02:00:0A:04:02:1F;fixed-address 10.4.2.31; }
+host cloud-10.4.2.32 { hardware ethernet 02:00:0A:04:02:20;fixed-address 10.4.2.32; }
+host cloud-10.4.2.33 { hardware ethernet 02:00:0A:04:02:21;fixed-address 10.4.2.33; }
+host cloud-10.4.2.34 { hardware ethernet 02:00:0A:04:02:22;fixed-address 10.4.2.34; }
+host cloud-10.4.2.35 { hardware ethernet 02:00:0A:04:02:23;fixed-address 10.4.2.35; }
+host cloud-10.4.2.36 { hardware ethernet 02:00:0A:04:02:24;fixed-address 10.4.2.36; }
+host cloud-10.4.2.37 { hardware ethernet 02:00:0A:04:02:25;fixed-address 10.4.2.37; }
+host cloud-10.4.2.38 { hardware ethernet 02:00:0A:04:02:26;fixed-address 10.4.2.38; }
+host cloud-10.4.2.39 { hardware ethernet 02:00:0A:04:02:27;fixed-address 10.4.2.39; }
+host cloud-10.4.2.40 { hardware ethernet 02:00:0A:04:02:28;fixed-address 10.4.2.40; }
+host cloud-10.4.2.41 { hardware ethernet 02:00:0A:04:02:29;fixed-address 10.4.2.41; }
+host cloud-10.4.2.42 { hardware ethernet 02:00:0A:04:02:2A;fixed-address 10.4.2.42; }
+host cloud-10.4.2.43 { hardware ethernet 02:00:0A:04:02:2B;fixed-address 10.4.2.43; }
+host cloud-10.4.2.44 { hardware ethernet 02:00:0A:04:02:2C;fixed-address 10.4.2.44; }
+host cloud-10.4.2.45 { hardware ethernet 02:00:0A:04:02:2D;fixed-address 10.4.2.45; }
+host cloud-10.4.2.46 { hardware ethernet 02:00:0A:04:02:2E;fixed-address 10.4.2.46; }
+host cloud-10.4.2.47 { hardware ethernet 02:00:0A:04:02:2F;fixed-address 10.4.2.47; }
+host cloud-10.4.2.48 { hardware ethernet 02:00:0A:04:02:30;fixed-address 10.4.2.48; }
+host cloud-10.4.2.49 { hardware ethernet 02:00:0A:04:02:31;fixed-address 10.4.2.49; }
+host cloud-10.4.2.50 { hardware ethernet 02:00:0A:04:02:32;fixed-address 10.4.2.50; }
+host cloud-10.4.2.51 { hardware ethernet 02:00:0A:04:02:33;fixed-address 10.4.2.51; }
+host cloud-10.4.2.52 { hardware ethernet 02:00:0A:04:02:34;fixed-address 10.4.2.52; }
+host cloud-10.4.2.53 { hardware ethernet 02:00:0A:04:02:35;fixed-address 10.4.2.53; }
+host cloud-10.4.2.54 { hardware ethernet 02:00:0A:04:02:36;fixed-address 10.4.2.54; }
+host cloud-10.4.2.55 { hardware ethernet 02:00:0A:04:02:37;fixed-address 10.4.2.55; }
+host cloud-10.4.2.56 { hardware ethernet 02:00:0A:04:02:38;fixed-address 10.4.2.56; }
+host cloud-10.4.2.57 { hardware ethernet 02:00:0A:04:02:39;fixed-address 10.4.2.57; }
+host cloud-10.4.2.58 { hardware ethernet 02:00:0A:04:02:3A;fixed-address 10.4.2.58; }
+host cloud-10.4.2.59 { hardware ethernet 02:00:0A:04:02:3B;fixed-address 10.4.2.59; }
+host cloud-10.4.2.60 { hardware ethernet 02:00:0A:04:02:3C;fixed-address 10.4.2.60; }
+host cloud-10.4.2.61 { hardware ethernet 02:00:0A:04:02:3D;fixed-address 10.4.2.61; }
+host cloud-10.4.2.62 { hardware ethernet 02:00:0A:04:02:3E;fixed-address 10.4.2.62; }
+host cloud-10.4.2.63 { hardware ethernet 02:00:0A:04:02:3F;fixed-address 10.4.2.63; }
+host cloud-10.4.2.64 { hardware ethernet 02:00:0A:04:02:40;fixed-address 10.4.2.64; }
+host cloud-10.4.2.65 { hardware ethernet 02:00:0A:04:02:41;fixed-address 10.4.2.65; }
+host cloud-10.4.2.66 { hardware ethernet 02:00:0A:04:02:42;fixed-address 10.4.2.66; }
+host cloud-10.4.2.67 { hardware ethernet 02:00:0A:04:02:43;fixed-address 10.4.2.67; }
+host cloud-10.4.2.68 { hardware ethernet 02:00:0A:04:02:44;fixed-address 10.4.2.68; }
+host cloud-10.4.2.69 { hardware ethernet 02:00:0A:04:02:45;fixed-address 10.4.2.69; }
+host cloud-10.4.2.70 { hardware ethernet 02:00:0A:04:02:46;fixed-address 10.4.2.70; }
+host cloud-10.4.2.71 { hardware ethernet 02:00:0A:04:02:47;fixed-address 10.4.2.71; }
+host cloud-10.4.2.72 { hardware ethernet 02:00:0A:04:02:48;fixed-address 10.4.2.72; }
+host cloud-10.4.2.73 { hardware ethernet 02:00:0A:04:02:49;fixed-address 10.4.2.73; }
+host cloud-10.4.2.74 { hardware ethernet 02:00:0A:04:02:4A;fixed-address 10.4.2.74; }
+host cloud-10.4.2.75 { hardware ethernet 02:00:0A:04:02:4B;fixed-address 10.4.2.75; }
+host cloud-10.4.2.76 { hardware ethernet 02:00:0A:04:02:4C;fixed-address 10.4.2.76; }
+host cloud-10.4.2.77 { hardware ethernet 02:00:0A:04:02:4D;fixed-address 10.4.2.77; }
+host cloud-10.4.2.78 { hardware ethernet 02:00:0A:04:02:4E;fixed-address 10.4.2.78; }
+host cloud-10.4.2.79 { hardware ethernet 02:00:0A:04:02:4F;fixed-address 10.4.2.79; }
+host cloud-10.4.2.80 { hardware ethernet 02:00:0A:04:02:50;fixed-address 10.4.2.80; }
+host cloud-10.4.2.81 { hardware ethernet 02:00:0A:04:02:51;fixed-address 10.4.2.81; }
+host cloud-10.4.2.82 { hardware ethernet 02:00:0A:04:02:52;fixed-address 10.4.2.82; }
+host cloud-10.4.2.83 { hardware ethernet 02:00:0A:04:02:53;fixed-address 10.4.2.83; }
+host cloud-10.4.2.84 { hardware ethernet 02:00:0A:04:02:54;fixed-address 10.4.2.84; }
+host cloud-10.4.2.85 { hardware ethernet 02:00:0A:04:02:55;fixed-address 10.4.2.85; }
+host cloud-10.4.2.86 { hardware ethernet 02:00:0A:04:02:56;fixed-address 10.4.2.86; }
+host cloud-10.4.2.87 { hardware ethernet 02:00:0A:04:02:57;fixed-address 10.4.2.87; }
+host cloud-10.4.2.88 { hardware ethernet 02:00:0A:04:02:58;fixed-address 10.4.2.88; }
+host cloud-10.4.2.89 { hardware ethernet 02:00:0A:04:02:59;fixed-address 10.4.2.89; }
+host cloud-10.4.2.90 { hardware ethernet 02:00:0A:04:02:5A;fixed-address 10.4.2.90; }
+host cloud-10.4.2.91 { hardware ethernet 02:00:0A:04:02:5B;fixed-address 10.4.2.91; }
+host cloud-10.4.2.92 { hardware ethernet 02:00:0A:04:02:5C;fixed-address 10.4.2.92; }
+host cloud-10.4.2.93 { hardware ethernet 02:00:0A:04:02:5D;fixed-address 10.4.2.93; }
+host cloud-10.4.2.94 { hardware ethernet 02:00:0A:04:02:5E;fixed-address 10.4.2.94; }
+host cloud-10.4.2.95 { hardware ethernet 02:00:0A:04:02:5F;fixed-address 10.4.2.95; }
+host cloud-10.4.2.96 { hardware ethernet 02:00:0A:04:02:60;fixed-address 10.4.2.96; }
+host cloud-10.4.2.97 { hardware ethernet 02:00:0A:04:02:61;fixed-address 10.4.2.97; }
+host cloud-10.4.2.98 { hardware ethernet 02:00:0A:04:02:62;fixed-address 10.4.2.98; }
+host cloud-10.4.2.99 { hardware ethernet 02:00:0A:04:02:63;fixed-address 10.4.2.99; }
+host cloud-10.4.2.100 { hardware ethernet 02:00:0A:04:02:64;fixed-address 10.4.2.100; }
+host cloud-10.4.2.101 { hardware ethernet 02:00:0A:04:02:65;fixed-address 10.4.2.101; }
+host cloud-10.4.2.102 { hardware ethernet 02:00:0A:04:02:66;fixed-address 10.4.2.102; }
+host cloud-10.4.2.103 { hardware ethernet 02:00:0A:04:02:67;fixed-address 10.4.2.103; }
+host cloud-10.4.2.104 { hardware ethernet 02:00:0A:04:02:68;fixed-address 10.4.2.104; }
+host cloud-10.4.2.105 { hardware ethernet 02:00:0A:04:02:69;fixed-address 10.4.2.105; }
+host cloud-10.4.2.106 { hardware ethernet 02:00:0A:04:02:6A;fixed-address 10.4.2.106; }
+host cloud-10.4.2.107 { hardware ethernet 02:00:0A:04:02:6B;fixed-address 10.4.2.107; }
+host cloud-10.4.2.108 { hardware ethernet 02:00:0A:04:02:6C;fixed-address 10.4.2.108; }
+host cloud-10.4.2.109 { hardware ethernet 02:00:0A:04:02:6D;fixed-address 10.4.2.109; }
+host cloud-10.4.2.110 { hardware ethernet 02:00:0A:04:02:6E;fixed-address 10.4.2.110; }
+host cloud-10.4.2.111 { hardware ethernet 02:00:0A:04:02:6F;fixed-address 10.4.2.111; }
+host cloud-10.4.2.112 { hardware ethernet 02:00:0A:04:02:70;fixed-address 10.4.2.112; }
+host cloud-10.4.2.113 { hardware ethernet 02:00:0A:04:02:71;fixed-address 10.4.2.113; }
+host cloud-10.4.2.114 { hardware ethernet 02:00:0A:04:02:72;fixed-address 10.4.2.114; }
+host cloud-10.4.2.115 { hardware ethernet 02:00:0A:04:02:73;fixed-address 10.4.2.115; }
+host cloud-10.4.2.116 { hardware ethernet 02:00:0A:04:02:74;fixed-address 10.4.2.116; }
+host cloud-10.4.2.117 { hardware ethernet 02:00:0A:04:02:75;fixed-address 10.4.2.117; }
+host cloud-10.4.2.118 { hardware ethernet 02:00:0A:04:02:76;fixed-address 10.4.2.118; }
+host cloud-10.4.2.119 { hardware ethernet 02:00:0A:04:02:77;fixed-address 10.4.2.119; }
+host cloud-10.4.2.120 { hardware ethernet 02:00:0A:04:02:78;fixed-address 10.4.2.120; }
+host cloud-10.4.2.121 { hardware ethernet 02:00:0A:04:02:79;fixed-address 10.4.2.121; }
+host cloud-10.4.2.122 { hardware ethernet 02:00:0A:04:02:7A;fixed-address 10.4.2.122; }
+host cloud-10.4.2.123 { hardware ethernet 02:00:0A:04:02:7B;fixed-address 10.4.2.123; }
+host cloud-10.4.2.124 { hardware ethernet 02:00:0A:04:02:7C;fixed-address 10.4.2.124; }
+host cloud-10.4.2.125 { hardware ethernet 02:00:0A:04:02:7D;fixed-address 10.4.2.125; }
+host cloud-10.4.2.126 { hardware ethernet 02:00:0A:04:02:7E;fixed-address 10.4.2.126; }
+host cloud-10.4.2.127 { hardware ethernet 02:00:0A:04:02:7F;fixed-address 10.4.2.127; }
+host cloud-10.4.2.128 { hardware ethernet 02:00:0A:04:02:80;fixed-address 10.4.2.128; }
+host cloud-10.4.2.129 { hardware ethernet 02:00:0A:04:02:81;fixed-address 10.4.2.129; }
+host cloud-10.4.2.130 { hardware ethernet 02:00:0A:04:02:82;fixed-address 10.4.2.130; }
+host cloud-10.4.2.131 { hardware ethernet 02:00:0A:04:02:83;fixed-address 10.4.2.131; }
+host cloud-10.4.2.132 { hardware ethernet 02:00:0A:04:02:84;fixed-address 10.4.2.132; }
+host cloud-10.4.2.133 { hardware ethernet 02:00:0A:04:02:85;fixed-address 10.4.2.133; }
+host cloud-10.4.2.134 { hardware ethernet 02:00:0A:04:02:86;fixed-address 10.4.2.134; }
+host cloud-10.4.2.135 { hardware ethernet 02:00:0A:04:02:87;fixed-address 10.4.2.135; }
+host cloud-10.4.2.136 { hardware ethernet 02:00:0A:04:02:88;fixed-address 10.4.2.136; }
+host cloud-10.4.2.137 { hardware ethernet 02:00:0A:04:02:89;fixed-address 10.4.2.137; }
+host cloud-10.4.2.138 { hardware ethernet 02:00:0A:04:02:8A;fixed-address 10.4.2.138; }
+host cloud-10.4.2.139 { hardware ethernet 02:00:0A:04:02:8B;fixed-address 10.4.2.139; }
+host cloud-10.4.2.140 { hardware ethernet 02:00:0A:04:02:8C;fixed-address 10.4.2.140; }
+host cloud-10.4.2.141 { hardware ethernet 02:00:0A:04:02:8D;fixed-address 10.4.2.141; }
+host cloud-10.4.2.142 { hardware ethernet 02:00:0A:04:02:8E;fixed-address 10.4.2.142; }
+host cloud-10.4.2.143 { hardware ethernet 02:00:0A:04:02:8F;fixed-address 10.4.2.143; }
+host cloud-10.4.2.144 { hardware ethernet 02:00:0A:04:02:90;fixed-address 10.4.2.144; }
+host cloud-10.4.2.145 { hardware ethernet 02:00:0A:04:02:91;fixed-address 10.4.2.145; }
+host cloud-10.4.2.146 { hardware ethernet 02:00:0A:04:02:92;fixed-address 10.4.2.146; }
+host cloud-10.4.2.147 { hardware ethernet 02:00:0A:04:02:93;fixed-address 10.4.2.147; }
+host cloud-10.4.2.148 { hardware ethernet 02:00:0A:04:02:94;fixed-address 10.4.2.148; }
+host cloud-10.4.2.149 { hardware ethernet 02:00:0A:04:02:95;fixed-address 10.4.2.149; }
+host cloud-10.4.2.150 { hardware ethernet 02:00:0A:04:02:96;fixed-address 10.4.2.150; }
+host cloud-10.4.2.151 { hardware ethernet 02:00:0A:04:02:97;fixed-address 10.4.2.151; }
+host cloud-10.4.2.152 { hardware ethernet 02:00:0A:04:02:98;fixed-address 10.4.2.152; }
+host cloud-10.4.2.153 { hardware ethernet 02:00:0A:04:02:99;fixed-address 10.4.2.153; }
+host cloud-10.4.2.154 { hardware ethernet 02:00:0A:04:02:9A;fixed-address 10.4.2.154; }
+host cloud-10.4.2.155 { hardware ethernet 02:00:0A:04:02:9B;fixed-address 10.4.2.155; }
+host cloud-10.4.2.156 { hardware ethernet 02:00:0A:04:02:9C;fixed-address 10.4.2.156; }
+host cloud-10.4.2.157 { hardware ethernet 02:00:0A:04:02:9D;fixed-address 10.4.2.157; }
+host cloud-10.4.2.158 { hardware ethernet 02:00:0A:04:02:9E;fixed-address 10.4.2.158; }
+host cloud-10.4.2.159 { hardware ethernet 02:00:0A:04:02:9F;fixed-address 10.4.2.159; }
+host cloud-10.4.2.160 { hardware ethernet 02:00:0A:04:02:A0;fixed-address 10.4.2.160; }
+host cloud-10.4.2.161 { hardware ethernet 02:00:0A:04:02:A1;fixed-address 10.4.2.161; }
+host cloud-10.4.2.162 { hardware ethernet 02:00:0A:04:02:A2;fixed-address 10.4.2.162; }
+host cloud-10.4.2.163 { hardware ethernet 02:00:0A:04:02:A3;fixed-address 10.4.2.163; }
+host cloud-10.4.2.164 { hardware ethernet 02:00:0A:04:02:A4;fixed-address 10.4.2.164; }
+host cloud-10.4.2.165 { hardware ethernet 02:00:0A:04:02:A5;fixed-address 10.4.2.165; }
+host cloud-10.4.2.166 { hardware ethernet 02:00:0A:04:02:A6;fixed-address 10.4.2.166; }
+host cloud-10.4.2.167 { hardware ethernet 02:00:0A:04:02:A7;fixed-address 10.4.2.167; }
+host cloud-10.4.2.168 { hardware ethernet 02:00:0A:04:02:A8;fixed-address 10.4.2.168; }
+host cloud-10.4.2.169 { hardware ethernet 02:00:0A:04:02:A9;fixed-address 10.4.2.169; }
+host cloud-10.4.2.170 { hardware ethernet 02:00:0A:04:02:AA;fixed-address 10.4.2.170; }
+host cloud-10.4.2.171 { hardware ethernet 02:00:0A:04:02:AB;fixed-address 10.4.2.171; }
+host cloud-10.4.2.172 { hardware ethernet 02:00:0A:04:02:AC;fixed-address 10.4.2.172; }
+host cloud-10.4.2.173 { hardware ethernet 02:00:0A:04:02:AD;fixed-address 10.4.2.173; }
+host cloud-10.4.2.174 { hardware ethernet 02:00:0A:04:02:AE;fixed-address 10.4.2.174; }
+host cloud-10.4.2.175 { hardware ethernet 02:00:0A:04:02:AF;fixed-address 10.4.2.175; }
+host cloud-10.4.2.176 { hardware ethernet 02:00:0A:04:02:B0;fixed-address 10.4.2.176; }
+host cloud-10.4.2.177 { hardware ethernet 02:00:0A:04:02:B1;fixed-address 10.4.2.177; }
+host cloud-10.4.2.178 { hardware ethernet 02:00:0A:04:02:B2;fixed-address 10.4.2.178; }
+host cloud-10.4.2.179 { hardware ethernet 02:00:0A:04:02:B3;fixed-address 10.4.2.179; }
+host cloud-10.4.2.180 { hardware ethernet 02:00:0A:04:02:B4;fixed-address 10.4.2.180; }
+host cloud-10.4.2.181 { hardware ethernet 02:00:0A:04:02:B5;fixed-address 10.4.2.181; }
+host cloud-10.4.2.182 { hardware ethernet 02:00:0A:04:02:B6;fixed-address 10.4.2.182; }
+host cloud-10.4.2.183 { hardware ethernet 02:00:0A:04:02:B7;fixed-address 10.4.2.183; }
+host cloud-10.4.2.184 { hardware ethernet 02:00:0A:04:02:B8;fixed-address 10.4.2.184; }
+host cloud-10.4.2.185 { hardware ethernet 02:00:0A:04:02:B9;fixed-address 10.4.2.185; }
+host cloud-10.4.2.186 { hardware ethernet 02:00:0A:04:02:BA;fixed-address 10.4.2.186; }
+host cloud-10.4.2.187 { hardware ethernet 02:00:0A:04:02:BB;fixed-address 10.4.2.187; }
+host cloud-10.4.2.188 { hardware ethernet 02:00:0A:04:02:BC;fixed-address 10.4.2.188; }
+host cloud-10.4.2.189 { hardware ethernet 02:00:0A:04:02:BD;fixed-address 10.4.2.189; }
+host cloud-10.4.2.190 { hardware ethernet 02:00:0A:04:02:BE;fixed-address 10.4.2.190; }
+host cloud-10.4.2.191 { hardware ethernet 02:00:0A:04:02:BF;fixed-address 10.4.2.191; }
+host cloud-10.4.2.192 { hardware ethernet 02:00:0A:04:02:C0;fixed-address 10.4.2.192; }
+host cloud-10.4.2.193 { hardware ethernet 02:00:0A:04:02:C1;fixed-address 10.4.2.193; }
+host cloud-10.4.2.194 { hardware ethernet 02:00:0A:04:02:C2;fixed-address 10.4.2.194; }
+host cloud-10.4.2.195 { hardware ethernet 02:00:0A:04:02:C3;fixed-address 10.4.2.195; }
+host cloud-10.4.2.196 { hardware ethernet 02:00:0A:04:02:C4;fixed-address 10.4.2.196; }
+host cloud-10.4.2.197 { hardware ethernet 02:00:0A:04:02:C5;fixed-address 10.4.2.197; }
+host cloud-10.4.2.198 { hardware ethernet 02:00:0A:04:02:C6;fixed-address 10.4.2.198; }
+host cloud-10.4.2.199 { hardware ethernet 02:00:0A:04:02:C7;fixed-address 10.4.2.199; }
+host cloud-10.4.2.200 { hardware ethernet 02:00:0A:04:02:C8;fixed-address 10.4.2.200; }
+host cloud-10.4.2.201 { hardware ethernet 02:00:0A:04:02:C9;fixed-address 10.4.2.201; }
+host cloud-10.4.2.202 { hardware ethernet 02:00:0A:04:02:CA;fixed-address 10.4.2.202; }
+host cloud-10.4.2.203 { hardware ethernet 02:00:0A:04:02:CB;fixed-address 10.4.2.203; }
+host cloud-10.4.2.204 { hardware ethernet 02:00:0A:04:02:CC;fixed-address 10.4.2.204; }
+host cloud-10.4.2.205 { hardware ethernet 02:00:0A:04:02:CD;fixed-address 10.4.2.205; }
+host cloud-10.4.2.206 { hardware ethernet 02:00:0A:04:02:CE;fixed-address 10.4.2.206; }
+host cloud-10.4.2.207 { hardware ethernet 02:00:0A:04:02:CF;fixed-address 10.4.2.207; }
+host cloud-10.4.2.208 { hardware ethernet 02:00:0A:04:02:D0;fixed-address 10.4.2.208; }
+host cloud-10.4.2.209 { hardware ethernet 02:00:0A:04:02:D1;fixed-address 10.4.2.209; }
+host cloud-10.4.2.210 { hardware ethernet 02:00:0A:04:02:D2;fixed-address 10.4.2.210; }
+host cloud-10.4.2.211 { hardware ethernet 02:00:0A:04:02:D3;fixed-address 10.4.2.211; }
+host cloud-10.4.2.212 { hardware ethernet 02:00:0A:04:02:D4;fixed-address 10.4.2.212; }
+host cloud-10.4.2.213 { hardware ethernet 02:00:0A:04:02:D5;fixed-address 10.4.2.213; }
+host cloud-10.4.2.214 { hardware ethernet 02:00:0A:04:02:D6;fixed-address 10.4.2.214; }
+host cloud-10.4.2.215 { hardware ethernet 02:00:0A:04:02:D7;fixed-address 10.4.2.215; }
+host cloud-10.4.2.216 { hardware ethernet 02:00:0A:04:02:D8;fixed-address 10.4.2.216; }
+host cloud-10.4.2.217 { hardware ethernet 02:00:0A:04:02:D9;fixed-address 10.4.2.217; }
+host cloud-10.4.2.218 { hardware ethernet 02:00:0A:04:02:DA;fixed-address 10.4.2.218; }
+host cloud-10.4.2.219 { hardware ethernet 02:00:0A:04:02:DB;fixed-address 10.4.2.219; }
+host cloud-10.4.2.220 { hardware ethernet 02:00:0A:04:02:DC;fixed-address 10.4.2.220; }
+host cloud-10.4.2.221 { hardware ethernet 02:00:0A:04:02:DD;fixed-address 10.4.2.221; }
+host cloud-10.4.2.222 { hardware ethernet 02:00:0A:04:02:DE;fixed-address 10.4.2.222; }
+host cloud-10.4.2.223 { hardware ethernet 02:00:0A:04:02:DF;fixed-address 10.4.2.223; }
+host cloud-10.4.2.224 { hardware ethernet 02:00:0A:04:02:E0;fixed-address 10.4.2.224; }
+host cloud-10.4.2.225 { hardware ethernet 02:00:0A:04:02:E1;fixed-address 10.4.2.225; }
+host cloud-10.4.2.226 { hardware ethernet 02:00:0A:04:02:E2;fixed-address 10.4.2.226; }
+host cloud-10.4.2.227 { hardware ethernet 02:00:0A:04:02:E3;fixed-address 10.4.2.227; }
+host cloud-10.4.2.228 { hardware ethernet 02:00:0A:04:02:E4;fixed-address 10.4.2.228; }
+host cloud-10.4.2.229 { hardware ethernet 02:00:0A:04:02:E5;fixed-address 10.4.2.229; }
+host cloud-10.4.2.230 { hardware ethernet 02:00:0A:04:02:E6;fixed-address 10.4.2.230; }
+host cloud-10.4.2.231 { hardware ethernet 02:00:0A:04:02:E7;fixed-address 10.4.2.231; }
+host cloud-10.4.2.232 { hardware ethernet 02:00:0A:04:02:E8;fixed-address 10.4.2.232; }
+host cloud-10.4.2.233 { hardware ethernet 02:00:0A:04:02:E9;fixed-address 10.4.2.233; }
+host cloud-10.4.2.234 { hardware ethernet 02:00:0A:04:02:EA;fixed-address 10.4.2.234; }
+host cloud-10.4.2.235 { hardware ethernet 02:00:0A:04:02:EB;fixed-address 10.4.2.235; }
+host cloud-10.4.2.236 { hardware ethernet 02:00:0A:04:02:EC;fixed-address 10.4.2.236; }
+host cloud-10.4.2.237 { hardware ethernet 02:00:0A:04:02:ED;fixed-address 10.4.2.237; }
+host cloud-10.4.2.238 { hardware ethernet 02:00:0A:04:02:EE;fixed-address 10.4.2.238; }
+host cloud-10.4.2.239 { hardware ethernet 02:00:0A:04:02:EF;fixed-address 10.4.2.239; }
+host cloud-10.4.2.240 { hardware ethernet 02:00:0A:04:02:F0;fixed-address 10.4.2.240; }
+host cloud-10.4.2.241 { hardware ethernet 02:00:0A:04:02:F1;fixed-address 10.4.2.241; }
+host cloud-10.4.2.242 { hardware ethernet 02:00:0A:04:02:F2;fixed-address 10.4.2.242; }
+host cloud-10.4.2.243 { hardware ethernet 02:00:0A:04:02:F3;fixed-address 10.4.2.243; }
+host cloud-10.4.2.244 { hardware ethernet 02:00:0A:04:02:F4;fixed-address 10.4.2.244; }
+host cloud-10.4.2.245 { hardware ethernet 02:00:0A:04:02:F5;fixed-address 10.4.2.245; }
+host cloud-10.4.2.246 { hardware ethernet 02:00:0A:04:02:F6;fixed-address 10.4.2.246; }
+host cloud-10.4.2.247 { hardware ethernet 02:00:0A:04:02:F7;fixed-address 10.4.2.247; }
+host cloud-10.4.2.248 { hardware ethernet 02:00:0A:04:02:F8;fixed-address 10.4.2.248; }
+host cloud-10.4.2.249 { hardware ethernet 02:00:0A:04:02:F9;fixed-address 10.4.2.249; }
+host cloud-10.4.2.250 { hardware ethernet 02:00:0A:04:02:FA;fixed-address 10.4.2.250; }
+host cloud-10.4.2.251 { hardware ethernet 02:00:0A:04:02:FB;fixed-address 10.4.2.251; }
+host cloud-10.4.2.252 { hardware ethernet 02:00:0A:04:02:FC;fixed-address 10.4.2.252; }
+host cloud-10.4.2.253 { hardware ethernet 02:00:0A:04:02:FD;fixed-address 10.4.2.253; }
+host cloud-10.4.2.254 { hardware ethernet 02:00:0A:04:02:FE;fixed-address 10.4.2.254; }

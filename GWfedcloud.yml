@@ -1,0 +1,7 @@
+- name: Setup GWfedcloud - dhcp and gw server for fedcloud
+  hosts: GWfedcloud
+  remote_user: root
+  roles:
+    - update
+    - nat_fed
+    - dhcp_fed 

@@ -1,0 +1,4 @@
+---
+
+- name: apt upgrade all packages
+  apt: upgrade=dist
