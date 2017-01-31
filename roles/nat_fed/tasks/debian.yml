@@ -20,3 +20,6 @@
 
 - name : Restart IPtables - reload rules
   shell: iptables-restore <  /etc/iptables/rules.v4
+
+- name: Restart fail2ban
+  systemd: state=restarted enabled=yes name=fail2ban
