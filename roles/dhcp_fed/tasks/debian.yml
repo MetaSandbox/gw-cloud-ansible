@@ -1,0 +1,13 @@
+---
+
+- name: Ensure dhcp_server is installed
+  apt: name=isc-dhcp-server state=present
+
+- name: Copy fed dhcpd.conf config
+  copy: src=dhcpd.conf dest=/etc/dhcp/dhcpd.conf
+
+- name: Copy fed dhcpd.local config
+  copy: src=dhcpd.conf.local dest=/etc/dhcp/dhcpd.conf.local
+
+- name: Restart dhcp
+  systemd: state=restarted enabled=yes name=isc-dhcp-server
