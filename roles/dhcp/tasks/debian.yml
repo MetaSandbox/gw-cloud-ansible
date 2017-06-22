@@ -1,0 +1,14 @@
+---
+
+- name: Ensure dhcp_server is installed
+  apt: name=isc-dhcp-server state=present
+
+- name: Copy fed dhcpd.conf config
+  copy: src={{ ansible_host }}.dhcpd.conf dest=/etc/dhcp/dhcpd.conf
+  notify:
+    - restart dhcp
+
+- name: Copy fed dhcpd.local config
+  copy: src={{ ansible_host }}.dhcpd.conf.local dest=/etc/dhcp/dhcpd.conf.local
+  notify: 
+    - restart dhcp

@@ -1,0 +1,4 @@
+---
+
+- name: restart dhcp
+  systemd: state=restarted enabled=yes name=isc-dhcp-server
