@@ -1,0 +1,21 @@
+---
+
+- name: Ensure ipmitool package is removed - conflict with iptables-persistent
+  apt: name=ipmitool state=absent
+
+- name: Install iptables-persistent for Debian
+  apt: pkg=iptables-persistent state=present
+  tags: package
+
+- name: Enable packet forwarding by kernel 
+  sysctl:
+    name: net.ipv4.ip_forward
+    value: 1
+    sysctl_set: yes
+    state: present
+    reload: yes
+   
+- name: Copy firewall rules
+  copy: src={{ ansible_host }}.debian.rules.v4 dest=/etc/iptables/rules.v4
+  notify: 
+    - restart iptables and fail2ban

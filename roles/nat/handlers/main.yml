@@ -1,0 +1,9 @@
+---
+
+- name : restart iptables
+  shell: iptables-restore <  /etc/iptables/rules.v4
+  listen: restart iptables and fail2ban
+
+- name: restart fail2ban
+  systemd: state=restarted enabled=yes name=fail2ban
+  listen: restart iptables and fail2ban
