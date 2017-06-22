@@ -2,6 +2,5 @@
   hosts: GWmetacloud
   remote_user: root
   roles:
-    - update
-    - nat_meta
-    - dhcp_meta 
+    - nat
+    - dhcp 

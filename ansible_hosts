@@ -1,5 +1,8 @@
 [GWfedcloud]
-147.228.240.235
+gw-cloud.meta.zcu.cz
 
 [GWmetacloud]
-147.251.3.13
+gw-cloud.ics.muni.cz
+
+[tes]
+took18.ics.muni.cz
