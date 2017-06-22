@@ -1,6 +1,0 @@
----
-
-- name: dnf upgrade all packages
-  dnf:
-    name: '*'
-    state: latest
