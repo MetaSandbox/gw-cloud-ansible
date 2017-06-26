@@ -4,3 +4,4 @@
   roles:
     - nat
     - dhcp 
+    - ntopng
