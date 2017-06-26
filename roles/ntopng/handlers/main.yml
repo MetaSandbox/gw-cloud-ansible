@@ -1,0 +1,4 @@
+---
+
+- name: restart ntopng
+  service: name=ntopng state=restarted

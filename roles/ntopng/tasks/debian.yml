@@ -1,0 +1,23 @@
+---
+
+- name: fix ntop pinning for install duration on meta machines
+  blockinfile:
+    path: /etc/apt/preferences
+    block: |
+      Package: *
+      Pin: origin packages.ntop.org
+      Pin-Priority: 1001
+
+- name: Install a ntopn repo package from web
+  apt:  deb=http://apt-stable.ntop.org/jessie/all/apt-ntop-stable.deb update_cache=yes
+
+- name: Ensure ntopng is installed
+  apt:  name=ntopng=3.* update_cache=yes
+
+- name: ensure empty file ntopng.start exists
+  copy: content="" dest=/etc/ntopng/ntopng.start
+
+- name: Copy ntopng.conf
+  copy: src={{ ansible_host }}.ntopng.conf dest=/etc/ntopng/ntopng.conf
+  notify:
+    - restart ntopng
